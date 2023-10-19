@@ -16,7 +16,7 @@ const App = () => {
         description: "Integrating Raspberry Pi with high-definition cameras, live streaming capabilities, and sensor modules empowers users to engage with and explore their environment in real-time.",
       },
       {
-        title: "Chirayu | Portfolio Website",
+        title: "Sarang | Portfolio Website",
         description: "Explore my portfolio website, a dynamic showcase of my work powered by HTML, CSS, and JavaScript with the flexibility of Flexbox.",
       },
     ],
@@ -33,7 +33,7 @@ const App = () => {
         <div className="body">
           <div className="about">
             <h3><u>Description about me:</u></h3>
-            <p>Hey! I am Shubham, 19 Years of age and currently pursuing my B.Tech Degree from VIT in IT. I have been since the beginning of my time here on earth, fascinated by these machines<br/>that we call computers, and from understanding what the internet is and how it works to now learning to make my own websites is a great journey so far but<br/>there is so much I still don't know which makes me excited...</p>
+            <p>Hey! I am Sarang, 20 Years of age and currently pursuing my B.Tech Degree from VIT in IT. I have been since the beginning of my time here on earth, fascinated by these machines<br/>that we call computers, and from understanding what the internet is and how it works to now learning to make my own websites is a great journey so far but<br/>there is so much I still don't know which makes me excited...</p>
           </div>
           <div className="skills">
             <h3><u>Skills:</u></h3>
